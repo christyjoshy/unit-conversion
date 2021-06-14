@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Database\Factories;
+namespace Christyoshy\UnitConversion\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
