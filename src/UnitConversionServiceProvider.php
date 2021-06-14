@@ -2,9 +2,9 @@
 
 namespace Christyoshy\UnitConversion;
 
+use Christyoshy\UnitConversion\Commands\UnitConversionCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Christyoshy\UnitConversion\Commands\UnitConversionCommand;
 
 class UnitConversionServiceProvider extends PackageServiceProvider
 {
