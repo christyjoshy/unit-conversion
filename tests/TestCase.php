@@ -2,9 +2,9 @@
 
 namespace Christyoshy\UnitConversion\Tests;
 
+use Christyoshy\UnitConversion\UnitConversionServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Christyoshy\UnitConversion\UnitConversionServiceProvider;
 
 class TestCase extends Orchestra
 {
